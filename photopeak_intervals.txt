@@ -1,0 +1,16 @@
+NaITl
+americium	200	20	40	5	20	
+barium		300	140	200	25	50	115	150
+caesium		600	250	350	
+cobalt	1000	450	550	
+BGO
+americium	200	20	40
+barium		300	170	250	25	50	125	160
+caesium		600	275	400
+cobalt		1000	550	650	650	750
+CdTe
+americium	2000	1100	1250	400	450	500	550	other:	200	300	300	400
+barium		2000	other:	650	750	500	700
+caesium		2000	
+cobalt		2000	
+	

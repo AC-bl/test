@@ -1,0 +1,4 @@
+	Radius	Length	Distance
+NaITl	2.94	1.88	20
+BGO	2.94	1.88	20
+CdTe	0.5	1.88	20

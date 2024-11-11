@@ -1,0 +1,12 @@
+SOURCES ENERGIES (eV):
+americium	59.5409	26.3446	33.1963
+barium	356.0129	80.9979	302.8508	
+caesium	661.657
+cobalt	1173.228	1332.492
+
+SOURCES HALF-LIVES (yr):
+americium	432.2
+barium	10.537
+caesium	30.09
+cobalt	5.2714
+
